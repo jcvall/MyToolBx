@@ -21,10 +21,10 @@ remotes::install_github("jcvall/MyToolBX")
 
 ## Example
 
-
 This is a basic framework which shows you how to work on a general analytics project:
 
 ![framework](MyToolBx Workflow.png)
+
 
 ``` r
 library(MyToolBx)
