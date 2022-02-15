@@ -23,9 +23,10 @@ remotes::install_github("jcvall/MyToolBX")
 
 This is a basic framework which shows you how to work on a general analytics project:
 
+<!-- badges: start -->
 ![framework](MyToolBx Workflow.png)
-
-
+<!-- badges: end  -->
+ 
 ``` r
 library(MyToolBx)
 ## basic example code
