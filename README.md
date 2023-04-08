@@ -5,7 +5,17 @@
 ![](imgfile.png)
 <!-- badges: end -->
 
-This package is a collection of my favorite functions from various well known packages. I will document below the functions I have collected for my workflow. I will create a website as to my methodology with more examples for using them together for analytic projects.  
+This package is a collection of my favorite functions around bayesian analysis from various packages. It is  designed around my personal workflow for data analysis and documents my methodology.  Please Note:  I don't have formal academic training around Bayesian statistics, but only strive to be a lifelong learner through reading, workshops, and online classes.
+
+My approach is heavily focused on making informed probabilistic decisions.  Much of my training, like most others, was based in classical statistics.  I have since moved away from p-value driven hypothesis testing and taking on a decision making model framework that addresses risk and probabilistic outcomes.
+
+The center of my analysis and decision framework includes: 
+
+ + Bayes Factors
+ + Empirical Bayesian Methods
+ + Beta Regression
+ + Probability Trees
+ + Monte Carlo Simulation 
 
 **“If you steal from one author, it’s plagiarism; if you steal from many, it’s research.”**
 — Wilson Mizner
