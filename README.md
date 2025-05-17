@@ -14,6 +14,7 @@ The center of my analysis and decision framework includes:
  + Bayes Factors
  + Empirical Bayesian Methods
  + Beta Regression
+ + Mixed Model Regression
  + Probability Trees
  + Monte Carlo Simulation 
 
